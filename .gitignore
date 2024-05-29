@@ -129,10 +129,10 @@ dmypy.json
 .pyre/
 
 
-data/*.csv
-models/*.sav
-mlruns
-models/*
+data/
+images/
+modeling/
+models/
 
 #config file has sensitive data
 .mlflow_uri
