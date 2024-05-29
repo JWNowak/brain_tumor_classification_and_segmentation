@@ -6,8 +6,8 @@ To use this repository follow the following steps:
 * 1. Clone repository 
 * 2. Install the virtual environment
 * 3. Download datasets (source: kaggle):
-    * 3.1 Dataset: Brain tumor classification (https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
-    * 3.2 Dataset: Brain tumor segmentation (https://www.kaggle.com/datasets/atikaakter11/brain-tumor-segmentation-dataset/data)
+    * i. Dataset: Brain tumor classification (https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
+    * ii. Dataset: Brain tumor segmentation (https://www.kaggle.com/datasets/atikaakter11/brain-tumor-segmentation-dataset/data)
 * 4. Run notebooks included in repository
 * 5. Run streamlit.py to launch Streamlit web application
 
