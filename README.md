@@ -31,4 +31,4 @@ pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-The `requirements.txt` file contains the libraries needed for running the notebooks and tge Streamlit webb application included in this repository.
+The `requirements.txt` file contains the libraries needed for running the notebooks and tge Streamlit web application included in this repository.
